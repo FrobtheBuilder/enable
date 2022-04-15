@@ -35333,6 +35333,7 @@ cytoplasmically
 cytoplasms
 cytosine
 cytosines
+cytosis
 cytoskeletal
 cytoskeleton
 cytoskeletons
@@ -138729,6 +138730,7 @@ snowsuit
 snowsuits
 snowy
 snub
+snus
 snubbed
 snubber
 snubbers
